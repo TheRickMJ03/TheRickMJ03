@@ -1,7 +1,6 @@
 # Hi 👋, I'm Ricardo Mejia
 ### Computer Science Student at NJIT | Undergraduate Research Assistant | Full-Stack AI Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TheRickMJ03&label=Profile views&color=0e75b6&style=flat" alt="TheRickMJ03" /> </p>
 
 - 📫 How to reach me **[ricardomejia017@hotmail.com](mailto:ricardomejia017@hotmail.com)**
 
